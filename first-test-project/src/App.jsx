@@ -6,7 +6,7 @@ import "./App.css";
 function App() {
   const [count, setCount] = useState(0);
 
-  return <>HI i am barath the bass</>;
+  return <>HI i am barath the boss</>;
 }
 
 export default App;
